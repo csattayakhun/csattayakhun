@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/welcome-header.gif" alt="Hello I'm Chirayut ">
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/welcome-header.gif" alt="Hello I'm Chirayut">
   <br><br>
 </div>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> หวัดดี แวะมาพอดีเลย</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! Nice to see you </h1>
 
 <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/party-furby.gif" align="right" width="60">
 
 <p>เราชื่อ <b>Chirayut</b> ทำเว็บอยู่ที่ <img src="https://flagcdn.com/w20/th.png" width="16"/> <b>Thailand</b><br>
 ช่วงนี้ติดเล่น AI กับวิดีโอ ชอบทำของที่เอาไปใช้ได้จริง ไม่ใช่แค่โปรเจกต์ส่งงาน</p>
 
-**i love code**&nbsp;&nbsp;![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/cat-typing.gif)&nbsp;&nbsp;**and ไอเดียแปลก ๆ**&nbsp;&nbsp;![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/unicorn.gif)
+**i love code**&nbsp;&nbsp;![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/cat-typing.gif)&nbsp;&nbsp; &nbsp;&nbsp;![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/unicorn.gif)
 
 <h3>ของที่ใช้ทำงาน</h3>
 <p>
@@ -31,10 +31,10 @@
 <table>
   <thead align="center">
     <tr>
-      <td><b>🎁 โปรเจกต์</b></td>
-      <td><b>📝 ทำอะไร</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🕒 แก้ล่าสุด</b></td>
+      <td><b>โปรเจกต์</b></td>
+      <td><b>ทำอะไร</b></td>
+      <td><b>Stars</b></td>
+      <td><b>แก้ล่าสุด</b></td>
     </tr>
   </thead>
   <tbody>
@@ -56,9 +56,6 @@
 <br>
 
 ![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/under-construction.gif)
-
-<sub>หน้านี้ยังแต่งไม่เสร็จ เหมือนโปรเจกต์ทุกอันของเรา</sub>
-
 <h3>หาเราได้ที่</h3>
 <p>
   <a href="https://github.com/csattayakhun"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -69,7 +66,5 @@
 </p>
 
 <br>
-
-![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/counter.gif) ![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/badge1.gif) ![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/badge2.gif) ![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/badge4.gif) ![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/badge5.gif)
 
 ![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/flames.gif)
