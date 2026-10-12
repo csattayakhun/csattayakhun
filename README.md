@@ -3,7 +3,7 @@
   <br><br>
 </div>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! Nice to see you </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! Nice to see you</h1>
 
 <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/party-furby.gif" align="right" width="60">
 
@@ -13,7 +13,7 @@ I enjoy turning messy problems into practical, user-focused tools, and I pick up
 
 **i love code**&nbsp;&nbsp;![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/cat-typing.gif)&nbsp;&nbsp; &nbsp;&nbsp;![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/unicorn.gif)
 
-<h3>ของที่ใช้ทำงาน</h3>
+<h3>Things I code with</h3>
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -28,26 +28,26 @@ I enjoy turning messy problems into practical, user-focused tools, and I pick up
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<h3>กำลังทำอะไรอยู่</h3>
+<h3>Projects</h3>
 <table>
   <thead align="center">
     <tr>
-      <td><b>โปรเจกต์</b></td>
-      <td><b>ทำอะไร</b></td>
+      <td><b>Project</b></td>
+      <td><b>What it does</b></td>
       <td><b>Stars</b></td>
-      <td><b>แก้ล่าสุด</b></td>
+      <td><b>Last update</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/csattayakhun/ai-video-editor"><b>ai-video-editor</b></a> <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/hot.gif" /></td>
-      <td>โยนวิดีโอเข้าไป AI ฟังเสียงกับดูภาพ แล้วตัดเหลือแค่ส่วนที่สำคัญ มี subtitle ไทย/อังกฤษให้</td>
+      <td><a href="https://github.com/csattayakhun/ai-video-editor"><b>AI Video Smart Editor</b></a> <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/hot.gif" /><br><sub>Final Year Project</sub></td>
+      <td>A full-stack app for editing Thai-language videos. It transcribes speech, uses an LLM to flag filler, repetition and silence for you to review, then exports the cut with burned-in subtitles. The timeline supports reversible split/merge and keeps subtitles in sync after every cut.<br><sub>Python · FastAPI · Celery · Redis · PostgreSQL · faster-whisper · Gemini API · React · Docker</sub></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/csattayakhun/ai-video-editor?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Last commit" src="https://img.shields.io/github/last-commit/csattayakhun/ai-video-editor?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/csattayakhun/retireplan"><b>retireplan</b></a></td>
-      <td>กรอกอายุ เงินเก็บ ค่าใช้จ่าย แล้วมันบอกว่าตอนเกษียณจะขาดเงินอีกเท่าไหร่</td>
+      <td><a href="https://github.com/csattayakhun/retireplan"><b>RetirePlan</b></a><br><sub>Personal Project</sub></td>
+      <td>A retirement planner that compares how much you need with how much you're on track to save. Sign in with Google to save and compare plans. The projections use inflation-adjusted annuity formulas, covered by 16 unit tests.<br><sub>TypeScript · Next.js · NestJS · Prisma · MySQL · Tailwind CSS</sub></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/csattayakhun/retireplan?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Last commit" src="https://img.shields.io/github/last-commit/csattayakhun/retireplan?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -55,10 +55,11 @@ I enjoy turning messy problems into practical, user-focused tools, and I pick up
 </table>
 
 <br>
-<h3>หาเราได้ที่</h3>
+
+<h3>Where to find me</h3>
 <p>
   <a href="https://github.com/csattayakhun"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <!-- ใส่เพิ่มได้ เช่น
+  <!-- Add more here, e.g.
   <a href="https://www.linkedin.com/in/YOUR-ID"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/YOUR-ID"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
   -->
