@@ -1,8 +1,75 @@
-### สวัสดี เราชื่อ Chirayut
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/welcome-header.gif" alt="welcome to my github profile">
+  <br><br>
+</div>
 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> หวัดดี แวะมาพอดีเลย</h1>
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nestjs,python,fastapi,mysql,prisma,docker&perline=10" height="36" />
+<img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/party-furby.gif" align="right" width="60">
 
-<br><br>
+<p>เราชื่อ <b>Chirayut</b> ทำเว็บอยู่ที่ <img src="https://flagcdn.com/w20/th.png" width="16"/> <b>Thailand</b><br>
+ช่วงนี้ติดเล่น AI กับวิดีโอ ชอบทำของที่เอาไปใช้ได้จริง ไม่ใช่แค่โปรเจกต์ส่งงาน</p>
 
-<sub>ถ้าอยากคุยเรื่องโปรเจกต์ หรือมีไอเดียอยากทำด้วยกัน เปิด issue ทิ้งไว้ได้เลย</sub>
+**i love code**&nbsp;&nbsp;![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/cat-typing.gif)&nbsp;&nbsp;**and ไอเดียแปลก ๆ**&nbsp;&nbsp;![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/unicorn.gif)
+
+<h3>ของที่ใช้ทำงาน</h3>
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+<h3>กำลังทำอะไรอยู่</h3>
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>🎁 โปรเจกต์</b></td>
+      <td><b>📝 ทำอะไร</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🕒 แก้ล่าสุด</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/csattayakhun/ai-video-editor"><b>ai-video-editor</b></a> <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/hot.gif" /></td>
+      <td>โยนวิดีโอเข้าไป AI ฟังเสียงกับดูภาพ แล้วตัดเหลือแค่ส่วนที่สำคัญ มี subtitle ไทย/อังกฤษให้</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/csattayakhun/ai-video-editor?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last commit" src="https://img.shields.io/github/last-commit/csattayakhun/ai-video-editor?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/csattayakhun/retireplan"><b>retireplan</b></a></td>
+      <td>กรอกอายุ เงินเก็บ ค่าใช้จ่าย แล้วมันบอกว่าตอนเกษียณจะขาดเงินอีกเท่าไหร่</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/csattayakhun/retireplan?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Last commit" src="https://img.shields.io/github/last-commit/csattayakhun/retireplan?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/under-construction.gif)
+
+<sub>หน้านี้ยังแต่งไม่เสร็จ เหมือนโปรเจกต์ทุกอันของเรา</sub>
+
+<h3>หาเราได้ที่</h3>
+<p>
+  <a href="https://github.com/csattayakhun"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <!-- ใส่เพิ่มได้ เช่น
+  <a href="https://www.linkedin.com/in/YOUR-ID"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/YOUR-ID"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  -->
+</p>
+
+<br>
+
+![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/counter.gif) ![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/badge1.gif) ![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/badge2.gif) ![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/badge4.gif) ![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/badge5.gif)
+
+![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/flames.gif)
