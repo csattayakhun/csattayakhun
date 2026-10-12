@@ -7,8 +7,9 @@
 
 <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/party-furby.gif" align="right" width="60">
 
-<p>เราชื่อ <b>Chirayut</b> ทำเว็บอยู่ที่ <img src="https://flagcdn.com/w20/th.png" width="16"/> <b>Thailand</b><br>
-ช่วงนี้ติดเล่น AI กับวิดีโอ ชอบทำของที่เอาไปใช้ได้จริง ไม่ใช่แค่โปรเจกต์ส่งงาน</p>
+<p>I'm <b>Chirayut</b>, a Computer Science student at Rajamangala University of Technology Suvarnabhumi, <img src="https://flagcdn.com/w20/th.png" width="16"/> <b>Thailand</b>.<br>
+I focus on full-stack development: React and Next.js on the front end, NestJS and FastAPI on the back end, and MySQL or PostgreSQL underneath.
+I enjoy turning messy problems into practical, user-focused tools, and I pick up new tech whenever a project needs it.</p>
 
 **i love code**&nbsp;&nbsp;![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/cat-typing.gif)&nbsp;&nbsp; &nbsp;&nbsp;![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/unicorn.gif)
 
