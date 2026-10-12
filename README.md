@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/welcome-header.gif" alt="Hello I'm Chirayut">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3000&pause=1500&color=FF3EA5&center=true&vCenter=true&width=700&height=70&lines=Hello,+I'm+Chirayut!" alt="Hello, I'm Chirayut">
   <br><br>
 </div>
 
