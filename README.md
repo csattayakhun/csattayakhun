@@ -55,8 +55,6 @@ I enjoy turning messy problems into practical, user-focused tools, and I pick up
 </table>
 
 <br>
-
-![](https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/under-construction.gif)
 <h3>หาเราได้ที่</h3>
 <p>
   <a href="https://github.com/csattayakhun"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
