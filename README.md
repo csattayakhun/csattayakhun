@@ -39,7 +39,7 @@ I focus on full-stack development and have built web applications across the fro
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/csattayakhun/ai-video-editor"><b>AI Video Smart Editor</b></a> <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/hot.gif" /><br><sub>Final Year Project</sub></td>
+      <td><a href="https://github.com/csattayakhun/ai-video-editor"><b>AI Video Smart Editor</b></a> <br><sub>Final Year Project</sub></td>
       <td>A full-stack app for editing Thai-language videos. It transcribes speech, uses an LLM to flag filler, repetition and silence for you to review, then exports the cut with burned-in subtitles. The timeline supports reversible split/merge and keeps subtitles in sync after every cut.<br><sub>Python · FastAPI · Celery · Redis · PostgreSQL · faster-whisper · Gemini API · React · Docker</sub></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/csattayakhun/ai-video-editor?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Last commit" src="https://img.shields.io/github/last-commit/csattayakhun/ai-video-editor?style=flat-square&labelColor=343b41"/></td>
